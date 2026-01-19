@@ -92,5 +92,3 @@ Once submitted, the system validates the response entries.
 1. Ensure you have **Python** installed.
 2.  Install the required library:
    pip install Pillow
-3. Install the required library:
-   pip install Pillow
