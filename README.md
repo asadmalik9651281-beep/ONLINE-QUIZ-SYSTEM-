@@ -1,2 +1,2 @@
-# ONLINE-QUIZ-SYSTEM-
-MY OSSD PROJECT 
+# 🎓 Online Quiz System (Python Tkinter) 🚀-
+
